@@ -2,7 +2,7 @@
 
 This is an openHAB binding for use with the Samsung Smartthings hub. On 3/5/19 it was submitted to openHAB for review and addition to openHAB bindings collection. Until it has been accepted and added to the openHAB platform you can install it from here.
 
-## Requires Smartthing Classic App
+## Requires Smartthings Classic App
 
 This binding only works with the **Smartthings Classic** app for your phone.
 
